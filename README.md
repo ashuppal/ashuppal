@@ -31,7 +31,6 @@ Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Da
 
 ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashuppal&show_icons=true&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashuppal&theme=onedark)](https://github.com/ashuppal/github-profile-trophy)
 <!--
