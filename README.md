@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+Ashwini;Full+Stack+Software+Developer;Experience+in+JavaScript%2C+HTML%2C+CSS;MongoDB+NoSQL+Database%2C+PostgreSQL;+Auth0%2C+React%2C+Git%2C+VS+Code)](https://git.io/typing-svg)
 #### Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
-#### TECHNICAL SKILLS 
-Languages: JavaScript, HTML, CSS, Bootstrap, Node JS, Express.JS , MongoDB, SQL
+#### Languages and Frameworks:
+Languages: JavaScript, HTML, CSS, Bootstrap, React, Node JS, Express.JS, MongoDB, SQL
 
-#### Skills and Tools:
-React, Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Database, PostgreSQL, Auth0 Authentication, Trello Project Management ,Zoom, Microsoft Teams
+#### Tolls and Skills:
+Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Database, PostgreSQL, Auth0 Authentication, Trello Project Management, Zoom, Microsoft Teams
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
