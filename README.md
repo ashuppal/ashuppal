@@ -2,11 +2,12 @@
 
 #### I am a Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
-#### TECHNICAL SKILLS
+#### TECHNICAL SKILLS 
 Languages: JavaScript, HTML, CSS, Bootstrap, Node JS, Express.JS , MongoDB, SQL
 
 #### Skills and Tools:
-React,Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Database, PostgreSQL, Auth0 Authentication, Trello Project Management ,Zoom, Microsoft Teams
+React, Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Database, PostgreSQL, Auth0 Authentication, Trello Project Management ,Zoom, Microsoft Teams
+
 
 
 <!--
