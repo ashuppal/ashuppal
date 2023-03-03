@@ -1,4 +1,4 @@
-![](https://github.com/ashuppal/ashuppal/blob/main/banner.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+Ashwini;Full+Stack+Software+Developer;Experience+in+JavaScript%2C+HTML%2C+CSS;MongoDB+NoSQL+Database%2C+PostgreSQL;+Auth0%2C+React%2C+Git%2C+VS+Code)](https://git.io/typing-svg)
 #### Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
