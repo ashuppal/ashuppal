@@ -26,7 +26,7 @@ Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Da
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 ![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashuppal&show_icons=true&theme=radical)
