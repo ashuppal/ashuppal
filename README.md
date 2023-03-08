@@ -34,7 +34,7 @@ Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Da
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashuppal&theme=onedark)](https://github.com/ashuppal/github-profile-trophy)
 
-[![Ashwini's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashuppal)](https://github.com/ashuppal/github-readme-activity-graph)
+[![Ashwini's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashuppal&theme=tokyo-night)](https://github.com/ashuppal/github-readme-activity-graph)
 <!--
 **ashuppal/ashuppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
