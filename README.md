@@ -4,7 +4,7 @@
 #### Languages and Frameworks:
 Languages: JavaScript, HTML, CSS, Bootstrap, React, Node JS, Express.JS, MongoDB, SQL
 
-#### Tolls and Skills:
+#### Tools and Skills:
 Git, GitHub, VS Code, Full Stack Development, HTTP API Clients, MongoDB NoSQL Database, PostgreSQL, Auth0 Authentication, Trello Project Management, Zoom, Microsoft Teams
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
