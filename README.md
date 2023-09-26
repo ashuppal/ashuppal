@@ -5,8 +5,7 @@
 Languages: TypeScript, JavaScript, HTML, CSS, MongoDB, SQL
 
 #### Tools and Skills:
-React, Git, GitHub, web sockets, VS Code, Bootstrap, Node JS, Express.JS, MongoDB, HTTP API Clients, MongoDB, NoSQL Database, PostgreSQL, OpenAI GPT APIs, Jest, AWS Elastic Beanstalk, AWS Command Line Interface (CLI), Amazon EC2, Amazon Web Services (AWS), AWS Lambda, Amazon S3, Amazon DynamoDB, Auth0 Authentication, Trello Project Management.
-
+React, MUI, Git, GitHub, web sockets, VS Code, Bootstrap, Node JS, Express.JS, MongoDB, HTTP API Clients, NoSQL Database, PostgreSQL, OpenAI GPT APIs, Jest, AWS Elastic Beanstalk, AWS Command Line Interface (CLI), Amazon EC2, Amazon Web Services (AWS), AWS Lambda, Amazon S3, Amazon DynamoDB, Auth0 Authentication, Trello Project Management.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
