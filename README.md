@@ -31,7 +31,7 @@ React, MUI, Git, GitHub, web sockets, VS Code, Bootstrap, Node JS, Express.JS, M
 	![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![trophy](https://github-trophies.vercel.app/?username=ashuppal&row=2&column=4)
+![trophy](https://github-trophies.vercel.app/?username=ashuppal&row=1&column=7)
 
 <!--
 **ashuppal/ashuppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
