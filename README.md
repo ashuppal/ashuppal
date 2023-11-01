@@ -2,7 +2,7 @@
 #### Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
 #### Languages and Frameworks:
-Languages: TypeScript, JavaScript,C#, HTML, CSS, MongoDB, SQL
+Languages: TypeScript, JavaScript, C#, HTML, CSS, MongoDB, SQL
 
 #### Tools and Skills:
 React, MUI, Git, GitHub, web sockets, VS Code, Bootstrap, Node JS, Express.JS, MongoDB, HTTP API Clients, NoSQL Database, PostgreSQL, OpenAI GPT APIs, Jest, AWS Elastic Beanstalk, AWS Command Line Interface (CLI), Amazon EC2, Amazon Web Services (AWS), AWS Lambda, Amazon S3, Amazon DynamoDB, Auth0 Authentication, Trello Project Management.
