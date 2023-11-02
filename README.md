@@ -2,7 +2,8 @@
 
 #### Proud creator of SuperQuiz:  AI Generated Custom Multiplayer Quizzes app ✨
 Generate your own quizzes and play with your team, family and friends!
-Check out [GetSuperQuiz](https://getsuperquiz.com) 🚀
+Check out [GetSuperQuiz](https://getsuperquiz.com) 🚀 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsyejR1MDFjemR0ZnhxN29zNWJjdGdrazI4NHB1aW9tY2FyNTBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P2FqFnv6IGvqRo2qpM/source.gif" alt="Alt text" width="50" height="50"/>
 
 #### Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
