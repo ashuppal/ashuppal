@@ -3,7 +3,7 @@
 #### Proud creator of SuperQuiz:  AI Generated Custom Multiplayer Quizzes app ✨
 Generate your own quizzes and play with your team, family and friends!
 Check out [GetSuperQuiz](https://getsuperquiz.com) 🚀 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkyMjVxb3N3NHM5bDBlOThoZ28xdm5hdTB2cTRvZmg0d3RtcDFwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amsXiPerH6pUKjzrHn/source.gif" alt="Alt text" width="40" height="40"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhoOXc0bW50a3BtbWM4aW92OHFiMG1rdzl6aGFna2UzYWNrbDE3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDMEwRtQp1t6vS0gvG/source.gif" alt="Alt text" width="40" height="40"/>
 
 #### Full Stack Developer with prior experience in Finance, Education, and Health verticals.
 
