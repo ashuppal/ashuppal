@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=3000&color=176FF7&repeat=false&random=false&width=800&lines=Creator+of+SuperQuiz+-+AI+Generated+Custom+Multiplayer+Quizzes)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Ashwini;Full+Stack+Software+Developer;Experience+in+JavaScript%2C+React%2C;React+Native%2C+HTML+%2C+CSS%2C+Bootstrap%2C+;Node+JS%2C+Express.JS%2C+MongoDB%2C+SQL%2C;Postgres+%2CAWS)](https://git.io/typing-svg)
 
 #### Proud creator of SuperQuiz:  AI Generated Custom Multiplayer Quizzes app ✨
