@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hello%2C+I+am+Ashwini)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=3000&color=176FF7&repeat=false&random=false&width=800&lines=Creator+of+SuperQuiz+-+AI+Generated+Custom+Multiplayer+Quizzes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A25F7&repeat=false&random=false&width=800&lines=Creator+of+SuperQuiz+-+AI+Generated+Custom+Multiplayer+Quizzes)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Software+Developer;Experience+in+JavaScript%2C+TypeScript;C%23%2C+React%2C+MUI%2C+Web+Sockets;Bootstrap%2C+Node.JS%2C+Express.JS;MongoDB%2C+HTTP+API+Clients;NoSQL+Database%2C+PostgreSQL;OpenAI+GPT+APIs%2C+Jest;AWS%2C+Auth0+Authentication;HTML%2C+CSS%2C+StoryBook%2C+tailwindCSS)](https://git.io/typing-svg)
 
